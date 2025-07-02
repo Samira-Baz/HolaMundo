@@ -2,4 +2,5 @@
 
 Mi primer repositorio
 
-:dog:; :cat:; :flower:; :computer:;
+i love :dog:, :cat:, :sunflower:, :computer:
+i love :icecream:, :book:, :moon:,
